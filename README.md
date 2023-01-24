@@ -1,3 +1,5 @@
+[Live Demo](https://jhontriboyke.github.io/fem-qr-code/)
+
 # fem-qr-code
 Front End Mentor - QR Component Project
 
